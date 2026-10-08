@@ -23,6 +23,7 @@ https://www.youtube.com/@niwied
 
 https://t.me/ebattnahui
 
+<img width="1811" height="1088" alt="image" src="https://github.com/user-attachments/assets/0984b188-07d3-49fa-ba79-4d8273f52919" />
 
 
 
@@ -53,3 +54,5 @@ RU: Генератор пиксельных субтитров для YouTube
 https://www.youtube.com/@niwied
 
 https://t.me/ebattnahui
+
+<img width="1813" height="1085" alt="image" src="https://github.com/user-attachments/assets/226390d6-ed36-4baa-8e7c-31e5fde83fb0" />
